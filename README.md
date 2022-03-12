@@ -12,7 +12,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 2. You will get a long text that needs after 4th step (ASENA_SESSION).
 3. If You don't have a account in [Heroku](https://signup.heroku.com/), Create a account.
 4. Click [FORK](https://github.com/Arjun-ser-ofc/Arjunser-private/fork)
-5. Now https://heroku.com/deploy?template=https://github.com/Arjun-ser-ofc/Arjunser-private copy this url and change Arjun-ser-ofc with your github username and click GO<br>
+5. Now https://heroku.com/deploy?template=https://github.com/Arjun-ser-ofc/Arjunser-private copy this url and change Arjun-ser-ofc To your github username and click GO<br>
    <br>
    <a href="https://Arjun-ser-ofc.github.io"><img src="https://i.imgur.com/9Y4k7zB.jpeg">
    <br>
