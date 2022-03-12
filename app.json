@@ -1,6 +1,6 @@
 {
-    "name": "Bottus",
-    "description": " Whatsapp bot.",
+    "name": "ArjunSer Private Bot",
+    "description": " Whatsapp Private Bot By ArjunSer.",
     "keywords": [
         "whatsapp",
         "bot"
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "🥰,lyfe00011"
+            "value": "𝚫રյ𝛖𝛈𝑆𝜀ર🌩🧚‍♂️"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
