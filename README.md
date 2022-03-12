@@ -14,7 +14,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
 4. Click [FORK](https://github.com/Arjun-ser-ofc/Arjunser-private/fork)
 5. Now https://heroku.com/deploy?template=https://github.com/Arjun-ser-ofc/Arjunser-private copy this url and change Arjun-ser-ofc with your github username and click GO<br>
    <br>
-   <a href="https://instagram.com/arjun_mom_z?utm_medium=copy_link"><img src="https://i.imgur.com/9Y4k7zB.jpeg">
+   <a href="https://Arjun-ser-ofc.github.io"><img src="https://i.imgur.com/9Y4k7zB.jpeg">
    <br>
    <a href="https://chat.whatsapp.com/J5Z3gyoxidd1JDiJzA9a9x"><img alt="WhatsApp" src="https://i.imgur.com/GrsmKdq.jpeg"/></a>
    <br>
