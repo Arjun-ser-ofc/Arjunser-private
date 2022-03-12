@@ -18,7 +18,7 @@ This is a Userbot based on WhatsAsena written by [Yusuf Usta](https://github.com
    <br>
    <a href="https://chat.whatsapp.com/J5Z3gyoxidd1JDiJzA9a9x"><img alt="WhatsApp" src="https://i.imgur.com/GrsmKdq.jpeg"/></a>
    <br>
-   <a href="https://github.com/Arjun-ser-ofc/Arjunser-private/wiki"><img src="https://i.imgur.com/QfAdGuD.jpeg"/></a>
+   <a href="https://github.com/lyfe00011/whatsapp-bot/wiki"><img src="https://i.imgur.com/QfAdGuD.jpeg"/></a>
 
 <!--
 [![Run on Repl.it](https://replit.com/badge/github/Arjun-ser-ofc/Arjunser-private)](https://replit.com/@Nightbot2O/baileys-qr)
