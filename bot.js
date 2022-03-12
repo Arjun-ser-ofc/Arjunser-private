@@ -100,7 +100,7 @@ ${chalk.white.bold.bgBlack("Version:")} ${chalk.red.bold.bgBlack(
 ${chalk.blue.italic.bgBlack("ℹ️ Connecting to WhatsApp... Please wait.")}`)
   })
   conn.on("open", async () => {
-    console.log(chalk.green.bold("✅ Login successful!"))
+    console.log(chalk.green.bold("✅ Arjunser Login successful!"))
     console.log(chalk.blueBright.italic("⬇️ Installing external plugins..."))
     console.log(chalk.blueBright.italic("✅ Login information updated!"))
 
