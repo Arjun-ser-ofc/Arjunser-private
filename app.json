@@ -1,6 +1,6 @@
 {
-    "name": "ArjunSer Private Bot",
-    "description": " Whatsapp Private Bot By ArjunSer.",
+    "name": "ArjunSer",
+    "description": " Whatsapp bot By ArjunSer.",
     "keywords": [
         "whatsapp",
         "bot"
@@ -16,7 +16,7 @@
             "required": false
         },
         "HANDLERS": {
-            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or ArjunSer. Using keyword like ArjunSer will broke list and help command",
+            "description": "enter prefix. Example . or ^[.,!/] for using multiple prefix like .,!/ or LyFE. Using keyword like LyFE will broke list and help command",
             "required": true,
             "value": "."
         },
@@ -74,7 +74,7 @@
         },
         "STICKER_PACKNAME": {
             "description": "Sticker pack name,author",
-            "value": "𝚫રյ𝛖𝛈𝑆𝜀ર🌩🧚‍♂️"
+            "value": "🥂𝚫𝚪𝐉𝐔𝚴-𝐒𝚺𝚪-𝚯𝐅𝐂"
         },
         "DISABLE_BOT": {
             "description": "Disable or Block bot in group/chat.Enter required chat jid separated by ,",
